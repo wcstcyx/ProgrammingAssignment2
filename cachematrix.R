@@ -1,3 +1,4 @@
+## Author: Can Wang
 ## These two functions are used to cache the inverse of a matrix.
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
